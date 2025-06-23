@@ -60,10 +60,7 @@ The model helps estimate expected delay based on operational and environmental i
 ---
 
 ## 📁 Project Structure
-flight-delay-prediction/
-├── flight_delay_prediction.ipynb # Main notebook with EDA and model
-├── presentation_deck.pdf # Project summary presentation (optional)
-└── README.md # Project documentation
+<pre><code>flight-delay-prediction/ ├── flight_delay_prediction.ipynb # Main notebook with EDA and model ├── presentation_deck.pdf # Project summary presentation (optional) └── README.md # Project documentation </code></pre>
 
 
 ---
